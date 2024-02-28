@@ -29,7 +29,7 @@ global.socialm = "GitHub: DESH" //ur github or insta name
 global.location = "Colombo,Sri Lanka" //ur location
 
 //new
-global.botname = "MIKOTO_URABE"
+global.botname = "SENU23"
 global.ownernumber = '94726662843'
 global.ownername = '么° 🄼 DESH 🥀 | ❤️'
 global.ownerNumber = ["94726662843@s.whatsapp.net"]
@@ -39,7 +39,7 @@ global.wagc = "https://chat.whatsapp.com/FFCLHJGsfV9GXzuf3wj0fW"
 global.themeemoji = '👉👈'
 global.wm = "Mr DESH ツ"
 global.botscript = 'https://github.com/' //script link
-global.packname = "MIKOTO_URABE WhatsApp Bot Created By\n\n\n\n\n\n\n\n Sticker By\n么° 🄼 DESH 🥀 | ❤️"
+global.packname = "SENU23 WhatsApp Bot Created By\n\n\n\n Sticker By\n么° 🄼 DESH 🥀 | ❤️"
 global.author = "么° 🄼 DESH 🥀 | ❤️"
 global.creator = "94726662843@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
