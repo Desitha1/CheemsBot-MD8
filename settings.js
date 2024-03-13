@@ -22,7 +22,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['94726662843'] //ur owner number
-global.ownernomer = "94726662843" //ur owner number2
+global.ownernomer = "94772772180" //ur owner number2
 global.ownername = "么° 🄼 DESH 🥀 | ❤️" //ur owner name
 global.ytname = "YT: M_DESH" //ur yt chanel name
 global.socialm = "GitHub: DESH" //ur github or insta name
@@ -35,7 +35,7 @@ global.ownername = '么° 🄼 DESH 🥀 | ❤️'
 global.ownerNumber = ["94726662843@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DESH"
 global.websitex = "https://youtu.be/..."
-global.wagc = "https://chat.whatsapp.com/FFCLHJGsfV9GXzuf3wj0fW"
+global.wagc = "https://chat.whatsapp.com/..."
 global.themeemoji = '👉👈'
 global.wm = "Mr DESH ツ"
 global.botscript = 'https://github.com/' //script link
